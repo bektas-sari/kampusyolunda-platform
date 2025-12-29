@@ -33,3 +33,12 @@ kampusyolunda-platform/
 ├── lib/                  # Supabase Clients & Utils
 ├── public/               # Static Assets
 └── services/             # API Integrations (AI & Data)
+```
+
+### 🚀 Key Features
+* Dynamic Filtering: Real-time search with <100ms latency.
+* Behavioral Tracking: Analyzing user clicks to refine recommendations (GDPR compliant).
+* Visual Data: Interactive charts helping students compare universities instantly.
+
+### 🔒 License
+Proprietary Software. All rights reserved by Kognitect.
